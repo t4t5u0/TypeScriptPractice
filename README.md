@@ -1,0 +1,2 @@
+# TypeScriptPractise
+TSを触ってみる
