@@ -1,0 +1,23 @@
+{
+  "name": "typescriptpractise",
+  "version": "1.0.0",
+  "description": "TSを触ってみる",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t4t5u0/TypeScriptPractise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t4t5u0/TypeScriptPractise/issues"
+  },
+  "homepage": "https://github.com/t4t5u0/TypeScriptPractise#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
